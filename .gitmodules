@@ -1,3 +1,6 @@
 [submodule "obscure_shell_syntax_schumatize_draft2.md_e648080b72bd50012a3ccde733079c3a"]
 	path = obscure_shell_syntax_schumatize_draft2.md_e648080b72bd50012a3ccde733079c3a
 	url = git@gist.github.com:e648080b72bd50012a3ccde733079c3a.git
+[submodule "vim_commands.md_9ed216ea3bd7be0cce643e449805ddfe"]
+	path = vim_commands.md_9ed216ea3bd7be0cce643e449805ddfe
+	url = git@gist.github.com:9ed216ea3bd7be0cce643e449805ddfe.git
